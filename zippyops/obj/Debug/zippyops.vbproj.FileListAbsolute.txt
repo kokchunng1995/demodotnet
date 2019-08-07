@@ -1,0 +1,74 @@
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\zippyops.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\zippyops.pdb
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\zippyops.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Antlr3.Runtime.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.AspNet.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.Core.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\EntityFramework.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\System.Web.Optimization.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\System.Web.Providers.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\WebGrease.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\EntityFramework.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.Core.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\DotNetOpenAuth.AspNet.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.vbprojResolveAssemblyReference.cache
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.Resources.resources
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.vbproj.GenerateResource.Cache
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.dll
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.xml
+c:\users\zippyops\documents\visual studio 2012\Projects\zippyops\zippyops\obj\Debug\zippyops.pdb
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\zippyops.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\zippyops.pdb
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\zippyops.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Antlr3.Runtime.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.Core.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\EntityFramework.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\System.Web.Optimization.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\System.Web.Providers.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\WebGrease.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\EntityFramework.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.Core.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.vbprojResolveAssemblyReference.cache
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.Resources.resources
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.vbproj.GenerateResource.Cache
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.dll
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.xml
+C:\Users\zippyops\Desktop\zippyops\zippyops\obj\Debug\zippyops.pdb

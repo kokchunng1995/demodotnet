@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/zippyops_deploy" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-zippyops-20190718135806;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-zippyops-20190718135806.mdf" />
+</parameters>
